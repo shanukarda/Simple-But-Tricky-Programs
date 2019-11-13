@@ -1,0 +1,1 @@
+print(list(map(int,input("Enter list elements saperated with space.").split())))
